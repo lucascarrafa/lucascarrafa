@@ -3,8 +3,6 @@
 📬 Reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascarrafa)](https://www.linkedin.com/in/lucascarrafa)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucascarrafa)](https://www.instagram.com/lucascarrafa)
-[![Instagram Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/lucascarrafa)](https://www.twitter.com/lucascarrafa)
 
 <!--
 **lucascarrafa/lucascarrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
